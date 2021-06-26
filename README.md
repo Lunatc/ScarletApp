@@ -1,2 +1,0 @@
-# ScarletApp
-Mobile application 
