@@ -1,2 +1,2 @@
 # ScarletApp
-Mobile application 
+Aplicação mobile, idealizada durante Hackaton
